@@ -1,9 +1,9 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=10cfbf&height=120&section=header"/>
 <h2 align="left">Techs</h2>
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=c,python,java,js,html,css,wordpress" height="40" />
 </p>
-
 
 
 ###
@@ -31,8 +31,13 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LucasCunhaAlmeida&hide_title=true&hide_rank=false&show_icons=false&include_all_commits=true&count_private=true&disable_animations=true&theme=tokyonight&locale=en&hide_border=true&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCunhaAlmeida&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true&order=2" height="150" alt="languages graph"  />
+  
+  <h2 align="left">Linguagens mais usadas</h2>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LucasCunhaAlmeida&locale=en&hide_title=false&layout=compact&card_width=750&langs_count=6&theme=tokyonight&hide_border=true" height="180" alt="languages graph" />
+</div>
+
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=LucasCunhaAlmeida&radius=8&theme=tokyo-night&area=true&order=5&hide_border=true&hide_title=false" height="285" alt="activity-graph graph"  />
 </div>
 
