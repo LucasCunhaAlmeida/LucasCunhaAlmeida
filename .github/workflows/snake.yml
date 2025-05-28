@@ -1,0 +1,19 @@
+name: Snake Animation
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v3
+
+      - name: Gerar a cobrinha
+        uses: Platane/snk@v2
+        with:
+          github_user_name: LucasCunhaAlmeida
+          outputs: |
+            output/github-contribution-grid-snake-dark.svg
